@@ -1,4 +1,4 @@
-# Tableau
+# Analyzing Sales Activity in Tableau 
 Visual Analytics
 
 Task 1
